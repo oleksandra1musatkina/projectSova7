@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+	<car>
+		<brand>BMW</brand>
+		<color>red</color>
+		<fuel>g</fuel>
+		<spz>KE123AA</spz>
+		<price>22222</price>
+	</car>
+	<car>
+		<brand>Audi</brand>
+		<color>pink</color>
+		<fuel>p</fuel>
+		<spz>KE555BB</spz>
+		<price>80222</price>
+	</car>
+	<car>
+		<brand>Audi</brand>
+		<color>pink</color>
+		<fuel>p</fuel>
+		<spz>KE555AA</spz>
+		<price>80222</price>
+	</car>
+</cars>
